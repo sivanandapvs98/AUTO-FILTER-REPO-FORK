@@ -676,7 +676,7 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/uniqueuser7410'>VJ</a>
+-Dev 1 [Owner of this bot ]<a href='https://t.me/uniqueuser7410'>uniqueuser7410</a>
 
 -Dev 2 <a href='https://t.me/PPCNETWORKZ'>PPCNETWORKZ</a>
 
