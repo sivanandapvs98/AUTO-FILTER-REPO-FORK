@@ -52,8 +52,8 @@ DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in enviro
 
 # MongoDB information
 DATABASE_URI = environ.get('DATABASE_URI','mongodb+srv://teticas610:DPX5WFmjvwVxq8DC@cluster0.cp6jcl9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0')
-DATABASE_NAME = environ.get('DATABASE_NAME', "DemoFilter")
-COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Demo_Files')
+DATABASE_NAME = environ.get('DATABASE_NAME', "Wavefiles")
+COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Wave_Files')
 
 # Premium And Referal Settings
 PREMIUM_AND_REFERAL_MODE = bool(environ.get('PREMIUM_AND_REFERAL_MODE', True)) # Set Ture Or False
